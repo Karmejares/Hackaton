@@ -1,10 +1,13 @@
 {
   "esquema": 1,
-  "equipo": "",
-  "integrantes": [],
-  "actualizado": "2026-10-31T16:29:55.248Z",
+  "equipo": "Los Apostoles de Claude",
+  "integrantes": [
+    "Juan Esteban Escobar",
+    "James Moncada"
+  ],
+  "actualizado": "2026-10-31T16:41:36.674Z",
   "entorno": {
-    "node": "v24.15.0",
+    "node": "v22.13.0",
     "sistema": "win32 x64"
   },
   "etapas": {
@@ -17,6 +20,16 @@
       "ultima": "2026-10-31T16:29:57.503Z",
       "comprobaciones": "0/1",
       "evidencia": "sin motor"
+    },
+    "1": {
+      "titulo": "Casos de uso",
+      "puntos": 15,
+      "extra": false,
+      "ok": true,
+      "primeraVez": "2026-10-31T16:41:36.691Z",
+      "ultima": "2026-10-31T16:41:36.691Z",
+      "comprobaciones": "9/9",
+      "evidencia": ""
     }
   }
 }
