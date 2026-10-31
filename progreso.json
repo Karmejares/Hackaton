@@ -5,7 +5,7 @@
     "Juan Esteban Escobar",
     "James Moncada"
   ],
-  "actualizado": "2026-10-31T16:45:34.791Z",
+  "actualizado": "2026-10-31T16:47:57.362Z",
   "entorno": {
     "node": "v22.13.0",
     "sistema": "win32 x64"
@@ -60,6 +60,16 @@
       "ultima": "2026-10-31T16:45:35.042Z",
       "comprobaciones": "6/6",
       "evidencia": ""
+    },
+    "5": {
+      "titulo": "Imagen: la API en un contenedor",
+      "puntos": 25,
+      "extra": false,
+      "ok": false,
+      "primeraVez": null,
+      "ultima": "2026-10-31T16:47:57.404Z",
+      "comprobaciones": "1/2",
+      "evidencia": "sin motor"
     }
   }
 }
