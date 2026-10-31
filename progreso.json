@@ -5,9 +5,9 @@
     "Juan Esteban Escobar",
     "James Moncada"
   ],
-  "actualizado": "2026-10-31T16:44:02.961Z",
+  "actualizado": "2026-10-31T16:45:34.791Z",
   "entorno": {
-    "node": "v24.15.0",
+    "node": "v22.13.0",
     "sistema": "win32 x64"
   },
   "etapas": {
@@ -25,40 +25,40 @@
       "titulo": "Casos de uso",
       "puntos": 15,
       "extra": false,
-      "ok": false,
-      "primeraVez": null,
-      "ultima": "2026-10-31T16:44:02.986Z",
-      "comprobaciones": "1/9",
+      "ok": true,
+      "primeraVez": "2026-10-31T16:41:36.691Z",
+      "ultima": "2026-10-31T16:41:36.691Z",
+      "comprobaciones": "9/9",
       "evidencia": ""
     },
     "2": {
       "titulo": "Adaptadores de salida",
       "puntos": 15,
       "extra": false,
-      "ok": false,
-      "primeraVez": null,
-      "ultima": "2026-10-31T16:44:02.999Z",
-      "comprobaciones": "0/15",
+      "ok": true,
+      "primeraVez": "2026-10-31T16:43:41.655Z",
+      "ultima": "2026-10-31T16:43:41.655Z",
+      "comprobaciones": "15/15",
       "evidencia": ""
     },
     "3": {
       "titulo": "Adaptador de entrada: la API HTTP",
       "puntos": 20,
       "extra": false,
-      "ok": false,
-      "primeraVez": null,
-      "ultima": "2026-10-31T16:44:03.099Z",
-      "comprobaciones": "1/12",
+      "ok": true,
+      "primeraVez": "2026-10-31T16:44:42.164Z",
+      "ultima": "2026-10-31T16:44:42.164Z",
+      "comprobaciones": "12/12",
       "evidencia": ""
     },
     "4": {
       "titulo": "Composición y regla de dependencias",
       "puntos": 15,
       "extra": false,
-      "ok": false,
-      "primeraVez": null,
-      "ultima": "2026-10-31T16:44:03.107Z",
-      "comprobaciones": "1/6",
+      "ok": true,
+      "primeraVez": "2026-10-31T16:45:35.042Z",
+      "ultima": "2026-10-31T16:45:35.042Z",
+      "comprobaciones": "6/6",
       "evidencia": ""
     }
   }
