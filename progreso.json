@@ -5,7 +5,7 @@
     "Juan Esteban Escobar",
     "James Moncada"
   ],
-  "actualizado": "2026-10-31T16:43:41.568Z",
+  "actualizado": "2026-10-31T16:44:41.969Z",
   "entorno": {
     "node": "v22.13.0",
     "sistema": "win32 x64"
@@ -39,6 +39,16 @@
       "primeraVez": "2026-10-31T16:43:41.655Z",
       "ultima": "2026-10-31T16:43:41.655Z",
       "comprobaciones": "15/15",
+      "evidencia": ""
+    },
+    "3": {
+      "titulo": "Adaptador de entrada: la API HTTP",
+      "puntos": 20,
+      "extra": false,
+      "ok": true,
+      "primeraVez": "2026-10-31T16:44:42.164Z",
+      "ultima": "2026-10-31T16:44:42.164Z",
+      "comprobaciones": "12/12",
       "evidencia": ""
     }
   }
