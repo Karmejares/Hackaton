@@ -5,7 +5,7 @@
     "Juan Esteban Escobar",
     "James Moncada"
   ],
-  "actualizado": "2026-10-31T16:44:41.969Z",
+  "actualizado": "2026-10-31T16:45:34.791Z",
   "entorno": {
     "node": "v22.13.0",
     "sistema": "win32 x64"
@@ -49,6 +49,16 @@
       "primeraVez": "2026-10-31T16:44:42.164Z",
       "ultima": "2026-10-31T16:44:42.164Z",
       "comprobaciones": "12/12",
+      "evidencia": ""
+    },
+    "4": {
+      "titulo": "Composición y regla de dependencias",
+      "puntos": 15,
+      "extra": false,
+      "ok": true,
+      "primeraVez": "2026-10-31T16:45:35.042Z",
+      "ultima": "2026-10-31T16:45:35.042Z",
+      "comprobaciones": "6/6",
       "evidencia": ""
     }
   }
