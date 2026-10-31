@@ -5,7 +5,7 @@
     "Juan Esteban Escobar",
     "James Moncada"
   ],
-  "actualizado": "2026-10-31T16:54:39.354Z",
+  "actualizado": "2026-10-31T17:02:20.201Z",
   "entorno": {
     "node": "v24.15.0",
     "sistema": "win32 x64"
@@ -70,6 +70,26 @@
       "ultima": "2026-10-31T16:52:32.045Z",
       "comprobaciones": "4/4",
       "evidencia": "docker 29.9.2; imagen sha256:b6fc87ae044b"
+    },
+    "6": {
+      "titulo": "Extra: datos que sobreviven en un volumen",
+      "puntos": 10,
+      "extra": true,
+      "ok": true,
+      "primeraVez": "2026-10-31T17:02:07.242Z",
+      "ultima": "2026-10-31T17:02:07.242Z",
+      "comprobaciones": "3/3",
+      "evidencia": "docker 29.9.2; volumen"
+    },
+    "7": {
+      "titulo": "Extra: el mismo resultado con los dos motores",
+      "puntos": 10,
+      "extra": true,
+      "ok": false,
+      "primeraVez": null,
+      "ultima": "2026-10-31T17:02:20.650Z",
+      "comprobaciones": "0/1",
+      "evidencia": "docker 29.9.2"
     }
   }
 }
