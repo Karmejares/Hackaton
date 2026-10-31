@@ -1,0 +1,22 @@
+{
+  "esquema": 1,
+  "equipo": "",
+  "integrantes": [],
+  "actualizado": "2026-10-31T16:29:55.248Z",
+  "entorno": {
+    "node": "v24.15.0",
+    "sistema": "win32 x64"
+  },
+  "etapas": {
+    "0": {
+      "titulo": "Contenedor listo",
+      "puntos": 10,
+      "extra": false,
+      "ok": false,
+      "primeraVez": null,
+      "ultima": "2026-10-31T16:29:57.503Z",
+      "comprobaciones": "0/1",
+      "evidencia": "sin motor"
+    }
+  }
+}
