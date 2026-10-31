@@ -5,7 +5,7 @@
     "Juan Esteban Escobar",
     "James Moncada"
   ],
-  "actualizado": "2026-10-31T16:41:36.674Z",
+  "actualizado": "2026-10-31T16:43:41.568Z",
   "entorno": {
     "node": "v22.13.0",
     "sistema": "win32 x64"
@@ -29,6 +29,16 @@
       "primeraVez": "2026-10-31T16:41:36.691Z",
       "ultima": "2026-10-31T16:41:36.691Z",
       "comprobaciones": "9/9",
+      "evidencia": ""
+    },
+    "2": {
+      "titulo": "Adaptadores de salida",
+      "puntos": 15,
+      "extra": false,
+      "ok": true,
+      "primeraVez": "2026-10-31T16:43:41.655Z",
+      "ultima": "2026-10-31T16:43:41.655Z",
+      "comprobaciones": "15/15",
       "evidencia": ""
     }
   }
