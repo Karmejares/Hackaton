@@ -1,8 +1,11 @@
 {
   "esquema": 1,
-  "equipo": "",
-  "integrantes": [],
-  "actualizado": "2026-10-31T16:29:55.248Z",
+  "equipo": "Los Apostoles de Claude",
+  "integrantes": [
+    "Juan Esteban Escobar",
+    "James Moncada"
+  ],
+  "actualizado": "2026-10-31T16:44:02.961Z",
   "entorno": {
     "node": "v24.15.0",
     "sistema": "win32 x64"
@@ -17,6 +20,46 @@
       "ultima": "2026-10-31T16:29:57.503Z",
       "comprobaciones": "0/1",
       "evidencia": "sin motor"
+    },
+    "1": {
+      "titulo": "Casos de uso",
+      "puntos": 15,
+      "extra": false,
+      "ok": false,
+      "primeraVez": null,
+      "ultima": "2026-10-31T16:44:02.986Z",
+      "comprobaciones": "1/9",
+      "evidencia": ""
+    },
+    "2": {
+      "titulo": "Adaptadores de salida",
+      "puntos": 15,
+      "extra": false,
+      "ok": false,
+      "primeraVez": null,
+      "ultima": "2026-10-31T16:44:02.999Z",
+      "comprobaciones": "0/15",
+      "evidencia": ""
+    },
+    "3": {
+      "titulo": "Adaptador de entrada: la API HTTP",
+      "puntos": 20,
+      "extra": false,
+      "ok": false,
+      "primeraVez": null,
+      "ultima": "2026-10-31T16:44:03.099Z",
+      "comprobaciones": "1/12",
+      "evidencia": ""
+    },
+    "4": {
+      "titulo": "Composición y regla de dependencias",
+      "puntos": 15,
+      "extra": false,
+      "ok": false,
+      "primeraVez": null,
+      "ultima": "2026-10-31T16:44:03.107Z",
+      "comprobaciones": "1/6",
+      "evidencia": ""
     }
   }
 }
